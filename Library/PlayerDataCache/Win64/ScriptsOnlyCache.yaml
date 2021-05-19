@@ -406,7 +406,7 @@ ScriptsOnlyBuild:
     className: ExtinguishableParticleSystem
   - hash:
       serializedVersion: 2
-      Hash: 30d8c8f2167e85622a4f40f87f25fda9
+      Hash: 69aaec5e8ffa569cd74fc2552917f1d8
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CollectCoin
@@ -1097,4 +1097,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Documents/Nova pasta/Fugindo Do Cemiterio.exe
+  playerPath: D:/Documents/Executavel do Jogo/Fugindo Do Cemiterio.exe
